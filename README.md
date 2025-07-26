@@ -17,7 +17,7 @@ This project is an interactive AI-powered application using a webcam to recogniz
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/WazDevZm/ZedMathAI.git
+    git clone https://github.com/mhiskall282/ZedMathAI.git
     cd your-repo-name
     ```
 
