@@ -1,0 +1,2 @@
+# ZedMathAi
+Assistive Technology Project
