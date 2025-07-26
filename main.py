@@ -20,7 +20,7 @@ with col2:
     output_text_area = st.subheader("")
 
 
-genai.configure(api_key="AIzaSyCE6oHErrVmpUHXwbzpUdZPc9tWHZdSMLg")
+genai.configure(api_key="")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 
